@@ -1,2 +1,1 @@
 - 👋 jaemzware llc
-- 💞️ I’m looking to collaborate on swift ios app - a map of skateparks "skatecreteordie"
